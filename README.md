@@ -24,7 +24,13 @@ Bilgisayar Mühendisliği son sınıf öğrencisiyim. Backend mimarileri, yapay 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+---
 
+### 🚀 Öne Çıkan Projeler
+
+- **[Offline AI Emergency Assistant](https://github.com/BilgehanYldrm/offline_AI-_agent)**  
+  *Microsoft AI Innovators* programı kapsamında geliştirilen; internet/şebeke kesintilerinde yerel donanımda çalışan, sesli ve metin destekli çevrimdışı afet asistanı.  
+  `FastAPI` • `Python` • `Ollama` • `React` • `SQLite`
 
 ### 🌐 İletişim
 
