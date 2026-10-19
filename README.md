@@ -24,16 +24,7 @@ Bilgisayar Mühendisliği son sınıf öğrencisiyim. Backend mimarileri, yapay 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
 
-### 📊 GitHub İstatistikleri
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BilgehanYldrm&show_icons=true&theme=dark" alt="Bilgehan's GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilgehanYldrm&layout=compact&theme=dark" alt="Top Languages" height="160" />
-</p>
-
----
 
 ### 🌐 İletişim
 
